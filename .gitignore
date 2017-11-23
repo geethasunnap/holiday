@@ -1,0 +1,4 @@
+#files to ignore
+#one.txt
+*.txt
+!one.txt
